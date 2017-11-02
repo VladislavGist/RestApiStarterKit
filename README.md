@@ -13,6 +13,7 @@ Installing project:
     2. install mongodb
     3. yarn install
 
-Control ptoject:
-    start project - yarn run dev
-    build project - yarn run build
+Control project:
+    start server in production - yarn run prod:start
+    start dev server - yarn run dev:start
+    build project - yarn run build:start
